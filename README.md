@@ -12,13 +12,13 @@ iOS上で動く多機能かつシンプルな動作の計算機アプリのコ�
 ## DEMO
 起動後はこのような画面になります
 
-![App appearance](/image/001.png)
+<img src="/image/001.png" width="300" alt="App appearance" />
 
 現在は Normal モードと Tax モードが存在します
 
 ### Normal
 
-![Normal](/image/002.png)
+<img src="/image/002.png" width="300" alt="Normal" />
 
 - Calculations using four arithmetic operations and brackets.
 - Tap '=' to display the calculation result.
@@ -31,7 +31,7 @@ iOS上で動く多機能かつシンプルな動作の計算機アプリのコ�
 
 ### Tax
 
-![Tax](/image/003.png)
+<img src="/image/003.png" width="300" alt="Tax" />
 
 - Calculate at 8% or 10% tax rate
 - Enter the amount to calculate the tax exemption price and tax
