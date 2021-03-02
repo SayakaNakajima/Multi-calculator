@@ -28,7 +28,7 @@ struct SwitchCalc: View {
             if (calcMode == "Normal") {
                 NormalCalc()
             } else {
-                
+                TaxCalc()
             }
         }
     }
